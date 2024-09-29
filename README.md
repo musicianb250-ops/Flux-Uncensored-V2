@@ -30,7 +30,7 @@ pipeline_tag: text-to-image
 
 Created by [EnhanceAI](https://enhanceai.art)
 
-Support Discord server - [Join Discord](https://discord.gg/cuCX9qur6f)
+Join Support Discord server - [Join Discord](https://discord.gg/cuCX9qur6f)
 
 The **FLUX Uncensored LoRA v2** is an enhanced version of the original FLUX Uncensored LoRA, designed for the base model `black-forest-labs/FLUX.1-dev`. This version addresses issues present in the previous release and offers improved performance and stability. The LoRA weights have been fine-tuned to remove the base model's content restrictions, allowing for the generation of NSFW (Not Safe For Work) and other uncensored content.
 
@@ -44,40 +44,6 @@ This LoRA extension can be loaded into the `FLUX.1-dev` pipeline using the `diff
 - **Stability Fixes:** Issues present in the previous version have been addressed, ensuring a more stable and reliable experience.
 - **Thinner LoRA Model:** The LoRA weights have been streamlined to reduce the model size without compromising quality.
 
-### Example 1:
-```plaintext
-nsfw nude woman on beach, sunset, long flowing hair, sensual pose
-```
-
-<img src="/image/example_1.jpg" alt="Example 1" width="500"/>
-
-### Example 2:
-```plaintext
-nsfw girls locker room, nude middle school girls soccer team, nubile girls, post-game celebration
-```
-
-<img src="/image/example_2.jpg" alt="Example 2" width="500"/>
-
-### Example 3:
-```plaintext
-nsfw nude, only fans streamer, gorgeous with long blond hair, sexual presence, seductive and cheeky look, perfect proportions, side boob, her breast revealed on the side of a loose tank top
-```
-
-<img src="/image/example_3.jpg" alt="Example 3" width="500"/>
-
-### Example 4:
-```plaintext
-Create the full nude body of a beautiful, bold and realistic big-breasted blonde woman with transparent panties featuring prominent vaginal lips and green eyes
-```
-
-<img src="/image/example_4.jpg" alt="Example 4" width="500"/>
-
-### Example 5:
-```plaintext
-nsfw erotic scene, a couple in a passionate embrace, dimly lit room, sensual atmosphere
-```
-
-<img src="/image/example_5.jpg" alt="Example 5" width="500"/>
 
 
 ## Donate & Support
