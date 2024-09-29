@@ -23,7 +23,7 @@ pipeline_tag: text-to-image
 # FLUX Uncensored LoRA v2
 
 <div align="center">
-  <img src="banner.webp" alt="Banner Logo" width="800"/>
+  <img src="banner.jpg" alt="Banner Logo" width="800"/>
 </div>
 
 ## Model Description
