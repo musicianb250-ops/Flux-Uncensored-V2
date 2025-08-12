@@ -24,7 +24,7 @@ pipeline_tag: image-to-image
 # FLUX Uncensored LoRA v2
 
 <div align="center">
-  <img src="banner.jpg" alt="Banner Logo" width="800"/>
+  <img src="banner.jpg"  width="800"/>
 </div>
 
 ## Model Description
